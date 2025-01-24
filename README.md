@@ -1,6 +1,8 @@
 # glmRob
 Fit a robust generalized linear model Use glmRob (robust) With (In) R Software
 
+https://www.youtube.com/watch?v=Txa8kUVaX7I
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
